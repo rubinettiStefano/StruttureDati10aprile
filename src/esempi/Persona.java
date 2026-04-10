@@ -1,5 +1,7 @@
 package esempi;
 
+import java.util.Objects;
+
 public class Persona
 {
     private String codiceFiscale;
@@ -29,23 +31,21 @@ public class Persona
     }
 
     @Override
-    public int hashCode()
-    {
-        return codiceFiscale.hashCode();
+    public boolean equals(Object o) {
+//        //o instanceof Persona other
+//        if(o instanceof Persona) {
+//            Persona other = (Persona) o;
+//        }
+        if (!(o instanceof Persona other)) return false;
+
+        //ogg1.equals(ogg2)
+        //Objects.equals(ogg1, ogg2)
+        return Objects.equals(codiceFiscale, other.codiceFiscale) && Objects.equals(nominativo, other.nominativo);
     }
 
-    //equals deve fare uguaglianza di stato, non di indirizzo
     @Override
-    public boolean equals(Object obj)
-    {
-        if(obj instanceof Persona)
-        {
-           Persona other = (Persona) obj;
-           return   nominativo.equals(other.nominativo)         &&
-                    codiceFiscale.equals(other.codiceFiscale)   ;
-        }
-        else
-            return false;
+    public int hashCode() {
+        return Objects.hash(codiceFiscale);
     }
 
     @Override
