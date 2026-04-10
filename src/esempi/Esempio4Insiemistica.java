@@ -1,9 +1,6 @@
 package esempi;
 
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 
 public class Esempio4Insiemistica
 {
@@ -28,6 +25,8 @@ public class Esempio4Insiemistica
         //creare un nuovo insieme clonando uno dei due presenti
         //risultatoUnione è clone di paroleCorte
         //chiamare i metodi per fare unione,intersezione o sottrazione
+
+        List<String> daSet = Arrays.asList("a,v,c,t,q".split(","));
 
         //unione     length()<=4  || significato  == animale
         Set<String> risultatoUnione = new HashSet<>(paroleCorte);

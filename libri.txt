@@ -1,0 +1,50 @@
+9788804750550,Il Trono di Spade. Vol. 1: Il Trono di Spade,George R. R. Martin,Avventura-Fantasy-Drammatico,1996-08-01,15.00
+9788804667100,1984,George Orwell,Distopia-Fantascienza-Classico,1949-06-08,12.00
+9788804668237,Fahrenheit 451,Ray Bradbury,Distopia-Fantascienza,1953-10-19,11.50
+9788806228217,Il giovane Holden,J.D. Salinger,Romanzo-Formazione,1951-07-16,13.00
+9788807900143,Se questo è un uomo,Primo Levi,Biografia-Storico,1947-10-11,10.00
+9788804671404,Il Grande Gatsby,F. Scott Fitzgerald,Classico-Drammatico,1925-04-10,9.50
+9788806203795,Il Signore degli Anelli,J.R.R. Tolkien,Fantasy-Avventura,1954-07-29,25.50
+9788804680680,Dune,Frank Herbert,Fantascienza-Avventura,1965-08-01,15.20
+9788838933028,Orgoglio e Pregiudizio,Jane Austen,Classico-Romantico,1813-01-28,8.50
+9788804667957,Cime Tempestose,Emily Brontë,Classico-Romantico-Drammatico,1847-12-01,9.00
+9788806214739,Il Barone Rampante,Italo Calvino,Romanzo-Classico-Avventura,1957-01-01,11.00
+9788804700531,Dieci piccoli indiani,Agatha Christie,Giallo-Mistero-Thriller,1939-11-06,10.50
+9788804667124,Il nome della rosa,Umberto Eco,Storico-Mistero-Giallo,1980-01-01,14.00
+9788817101417,Il codice da Vinci,Dan Brown,Thriller-Mistero-Avventura,2003-03-18,12.50
+9788804667087,Shining,Stephen King,Horror-Thriller-Psicologico,1977-01-28,13.50
+9788830420458,Il silenzio degli innocenti,Thomas Harris,Thriller-Horror-Psicologico,1988-08-01,11.50
+9788804682578,L'ombra del vento,Carlos Ruiz Zafón,Mistero-Gotico-Storico,2001-01-01,13.00
+9788811812111,Harry Potter e la Pietra Filosofale,J.K. Rowling,Fantasy-Ragazzi-Avventura,1997-06-26,14.90
+9788831003384,Percy Jackson e gli dei dell'Olimpo,Rick Riordan,Fantasy-Avventura-Ragazzi,2005-06-28,13.00
+9788804728986,Hunger Games,Suzanne Collins,Distopia-Avventura-Azione,2008-09-14,12.00
+9788804648611,It,Stephen King,Horror-Thriller,1986-09-15,18.00
+9788834739266,Neuromante,William Gibson,Fantascienza-Cyberpunk,1984-07-01,14.50
+9788804683506,Cronache marziane,Ray Bradbury,Fantascienza-Classico,1950-05-01,12.00
+9788804675549,Fondazione,Isaac Asimov,Fantascienza-Avventura,1951-01-01,11.50
+9788842928812,Lo Hobbit,J.R.R. Tolkien,Fantasy-Avventura,1937-09-21,12.00
+9788804666851,La svastica sul sole,Philip K. Dick,Distopia-Fantascienza-Ucronia,1962-01-01,13.50
+9788804702955,American Gods,Neil Gaiman,Fantasy-Mistero,2001-06-19,14.00
+9788834863008,Il colore della magia,Terry Pratchett,Fantasy-Umoristico,1983-11-24,10.50
+9788804681342,Guida galattica per gli autostoppisti,Douglas Adams,Fantascienza-Umoristico,1979-10-12,9.50
+9788817088770,L'assassino cieco,Margaret Atwood,Romanzo-Mistero-Fantascienza,2000-09-02,15.00
+9788806223120,I promessi sposi,Alessandro Manzoni,Classico-Storico,1827-06-15,10.00
+9788804669524,Il ritratto di Dorian Gray,Oscar Wilde,Classico-Gotico-Filosofico,1890-06-20,9.00
+9788806206109,Il conte di Montecristo,Alexandre Dumas,Avventura-Storico-Classico,1844-08-28,16.50
+9788807901768,I miserabili,Victor Hugo,Storico-Classico-Drammatico,1862-04-03,18.00
+9788804670056,Delitto e castigo,Fëdor Dostoevskij,Classico-Psicologico-Filosofico,1866-01-01,14.50
+9788806222857,Anna Karenina,Lev Tolstoj,Classico-Romantico-Drammatico,1877-01-01,15.00
+9788804668251,Guerra e pace,Lev Tolstoj,Storico-Classico,1869-01-01,19.00
+9788804667902,Don Chisciotte della Mancia,Miguel de Cervantes,Classico-Avventura-Satira,1605-01-16,13.00
+9788804667353,Moby Dick,Herman Melville,Avventura-Classico,1851-10-18,12.50
+9788804668312,Frankenstein,Mary Shelley,Horror-Fantascienza-Classico,1818-01-01,9.50
+9788806214531,Cent'anni di solitudine,Gabriel García Márquez,Realismo Magico-Classico,1967-05-30,13.50
+9788806219468,Il cacciatore di aquiloni,Khaled Hosseini,Drammatico-Storico,2003-05-29,11.00
+9788817029513,Gomorra,Roberto Saviano,Inchiesta-Saggio-Crimine,2006-04-20,12.50
+9788807018626,Sostiene Pereira,Antonio Tabucchi,Romanzo-Storico,1994-01-01,10.50
+9788806221140,L'amica geniale,Elena Ferrante,Romanzo-Formazione-Drammatico,2011-10-26,14.50
+9788804666578,L'alchimista,Paulo Coelho,Avventura-Filosofico-Fantasy,1988-01-01,10.00
+9788806225728,Novecento,Alessandro Baricco,Teatro-Romanzo,1994-01-01,8.00
+9788804667995,Il deserto dei Tartari,Dino Buzzati,Romanzo-Psicologico,1940-01-01,11.50
+9788811810575,La solitudine dei numeri primi,Paolo Giordano,Romanzo-Drammatico,2008-01-01,12.00
+9788806145897,Cecità,José Saramago,Distopia-Drammatico-Psicologico,1995-01-01,13.00

@@ -1,0 +1,2 @@
+Completare il main risolvendo tutti i metodi dello switch
+saranno metodi di analisi dati
